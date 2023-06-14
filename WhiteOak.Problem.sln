@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteOak.Problem", "WhiteOak.Problem\WhiteOak.Problem.csproj", "{5229DC3D-9F86-4621-A5D3-82CCEC97A905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5229DC3D-9F86-4621-A5D3-82CCEC97A905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5229DC3D-9F86-4621-A5D3-82CCEC97A905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5229DC3D-9F86-4621-A5D3-82CCEC97A905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5229DC3D-9F86-4621-A5D3-82CCEC97A905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEEEC933-1A82-45AA-A604-6C196C91C6D3}
+	EndGlobalSection
+EndGlobal

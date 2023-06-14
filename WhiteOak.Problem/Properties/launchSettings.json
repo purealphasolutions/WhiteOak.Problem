@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WhiteOak.Problem": {
+      "commandName": "Project",
+      "commandLineArgs": "Simulation"
+    }
+  }
+}
